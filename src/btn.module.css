@@ -1,0 +1,71 @@
+.divStyle{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.div1Style{
+    /* border: 2px solid white; */
+    width: 800px;
+    height: 200px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(33, 170, 228);
+}
+.redbtn{
+    background-color: red;
+    color: white;
+    width: 100px;
+    padding: 4px 10px;
+    border-radius: 5px;
+    height: 50px;
+    margin: 2%;
+}
+.greenbtn{
+    background-color: green;
+    color: white;
+    padding: 4px 10px;
+    width: 100px;
+    border-radius: 5px;
+    height: 50px;
+    margin: 2%;
+    }
+.yellowbtn{
+    background-color: yellow;
+    color: black;
+    width: 100px;
+    padding: 4px 10px;
+    border-radius: 5px;
+    height: 50px;
+    margin: 2%;
+    }
+.bluebtn{
+    background-color: blue;
+    color: white; 
+    border-radius: 5px;
+    width: 100px;
+    padding: 4px 10px;
+    height: 50px;
+    margin: 2%;
+    }
+.orangebtn{
+    background-color: orange;
+    color:  black;
+    padding: 4px 10px;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    margin: 2%;
+    }
+.blackbtn{
+    background-color: black;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 5px;
+    height: 50px;
+    width: 100px;
+    margin: 2%;
+    }
